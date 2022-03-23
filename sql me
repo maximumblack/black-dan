@@ -1,0 +1,14 @@
+block = {
+  'index': 2,
+  'timestamp': 1527444458,
+  'transactions': [
+    {
+      'sender': "Petrov",
+      'recipient': "Ivanov",
+      'amount': 15418,
+    }
+  ],
+  'proof': 4376,
+  'previous hash': "000bdf8cd989eb26be64a07b80a8cdcaf27476d8473efbde66c9dd857b94ab9",
+  'hash' : "00e86d5fce9d492c8fac40762fa3f4eee9a4ae4a17ee834be69aa05dff1309cc"
+}
